@@ -16,7 +16,7 @@
     "jsdom": "^27.4.0",
     "lightningcss": "^1.31.1", 
     "purgecss": "^7.0.2",
-    "terser": "^5.46.0"
+    "terser": "^5.46.1"
   },
   "author": "tecnikofficial",
   "license": "ISC"
