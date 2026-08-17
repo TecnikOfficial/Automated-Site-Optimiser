@@ -15,7 +15,7 @@
     "html-minifier-terser": "^7.2.0",
     "jsdom": "^30.0.1",
     "lightningcss": "^1.33.0", 
-    "purgecss": "^7.0.2",
+    "purgecss": "^8.0.0",
     "terser": "^5.49.0"
   },
   "author": "tecnikofficial",
