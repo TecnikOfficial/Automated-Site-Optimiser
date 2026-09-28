@@ -13,7 +13,7 @@
     "diff": "^9.0.0",
     "esbuild": "^0.28.2",
     "html-minifier-terser": "^7.2.0",
-    "jsdom": "^30.0.1",
+    "jsdom": "^30.1.1",
     "lightningcss": "^1.33.0", 
     "purgecss": "^8.0.0",
     "terser": "^5.50.0"
